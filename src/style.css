@@ -18,3 +18,7 @@ label {
   margin-bottom: 10px;
   padding-left: 2px;
 }
+
+.radio {
+  display: inline;
+}
